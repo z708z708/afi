@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CineFoyer 4DX",
+  "description": "A digital signage management system for 4-screen cinema foyers. Features schedule parsing, AI-powered movie metadata enrichment, and automated poster rotation.",
+  "requestFramePermissions": []
+}
